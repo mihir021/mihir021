@@ -7,14 +7,27 @@ I enjoy solving complex coding challenges, exploring new technologies, and conti
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mihir021&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mihir021&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir021&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+
+  <!-- Row 1: Streak + Languages -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mihir021&theme=tokyonight&hide_border=true" width="420" alt="GitHub Streak" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihir021&layout=compact&theme=tokyonight&hide_border=true" width="350" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Row 2: Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mihir021&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues,contribs&rank_icon=github" width="500" alt="GitHub Stats" />
+
+</div>
+
+
 
 ---
 
@@ -32,13 +45,11 @@ I enjoy solving complex coding challenges, exploring new technologies, and conti
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
 | [LeetCode-DSA](https://github.com/mihir021/LeetCode-DSA) | Collection of 100+ DSA problems solved in Java | Java, DSA |
-| [Python-Automations](https://github.com/mihir021/Python-Automations) | Useful scripts for automation tasks | Python |
 
 ---
 
 ## 🏁 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/mihir021](https://linkedin.com/in/mihir021)  
 - **GitHub:** [github.com/mihir021](https://github.com/mihir021)
 
 ---
