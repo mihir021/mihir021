@@ -7,6 +7,10 @@
 <a href="https://dinexa.in"><img src="https://img.shields.io/badge/Dinexa-Live%20Product-22d3ee?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:rathodmihir1113@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=650&lines=Shipping+Dinexa+%E2%80%94+a+multi-tenant+restaurant+SaaS;GSSoC+2026+%E2%80%94+Top+1%25+(Rank+%23301+%2F+43%2C587);Presented+research+at+ICRAET-2026;Currently+exploring+Spring+Boot%2C+Agents+%26+Rust" alt="Typing SVG" />
+
 </div>
 
 <br/>
@@ -43,6 +47,17 @@ fun_fact: "Ranked in the top 1% of GSSoC 2026 (#301 / 43,587)"
 **Currently Exploring**
 <br/>
 <img src="https://skillicons.dev/icons?i=solidity,rust&theme=dark" />
+
+</div>
+
+<br/>
+
+## <img src="https://api.iconify.design/mdi/chart-box.svg?color=%236366f1" width="24" valign="middle"/> GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mihir021&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=22d3ee&text_color=c9d1d9" />
+<img height="165" src="https://streak-stats.demolab.com/?user=mihir021&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=22d3ee&currStreakLabel=22d3ee" />
 
 </div>
 
@@ -117,6 +132,18 @@ Organized by LJK University in association with IFERP Academy · 16 CPD credit h
 </details>
 
 <br/>
+
+## <img src="https://api.iconify.design/mdi/chart-line.svg?color=%236366f1" width="24" valign="middle"/> Contribution Graph
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<img src="https://raw.githubusercontent.com/mihir021/mihir021/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+<!--END_SECTION:activity-->
+
+<sub>Animated snake eats your contribution graph — set up in 2 minutes, see note below ⬇️</sub>
+
+</div>
 
 <br/>
 
